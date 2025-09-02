@@ -1,0 +1,16 @@
+# This patchconfig was used to build this Kvantum Theme using https://github.com/HimDek/Utterly-Round-Plasma-Style/tree/master/kvantum/Utterly-Round-Transparent-Kvantum-Template
+
+#colors
+background=#1e1e2e
+foreground=#cdd6f4
+accent=#89b4fa
+negative=#f38ba8
+button=#45475a
+inactive=#a6adc8
+link=#74c7ec
+visitedlink=#94e2d5
+
+#details
+name=Catppuccin-Mocha
+author="Himprakash Deka"
+comment="A dark Catppuccin Mocha Kvantum theme with transparency, blur and round borders for UI elements"
