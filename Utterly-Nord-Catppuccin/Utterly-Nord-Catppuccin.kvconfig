@@ -482,7 +482,11 @@ frame.expansion=2.7font
 inherits=GenericFrame
 frame=false
 interior=false
-interior=false
+min_height=24
+text.margin.top=4
+text.margin.bottom=4
+text.margin.left=8
+text.margin.right=8
 
 [Window]
 interior=true
