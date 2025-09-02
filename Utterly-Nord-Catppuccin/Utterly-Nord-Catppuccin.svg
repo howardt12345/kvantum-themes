@@ -6515,19 +6515,19 @@
   <path
      id="menuitem-normal-topleft"
      style="opacity:0.4;fill:#89b4fa;fill-rule:evenodd;paint-order:normal;fill-opacity:1"
-     d="m 183.5,341.5 c -1.1046,0 -2,0.8954 -2,2 h 2 z" />
+     d="m 183.5,341.5 c -0.5523,0 -1,0.4477 -1,1 h 1 z" />
   <path
      id="menuitem-normal-topright"
      style="opacity:0.4;fill:#89b4fa;fill-rule:evenodd;paint-order:normal;fill-opacity:1"
-     d="m 191.5,341.5 v 2 h 2 c 0,-1.1046 -0.8954,-2 -2,-2 z" />
+     d="m 191.5,341.5 v 1 h 1 c 0,-0.5523 -0.4477,-1 -1,-1 z" />
   <path
      id="menuitem-normal-bottomleft"
      style="opacity:0.4;fill:#89b4fa;fill-rule:evenodd;paint-order:normal;fill-opacity:1"
-     d="m 179.5,353.5 c 0,1.1046 0.8954,2 2,2 v -2 z" />
+     d="m 179.5,353.5 c 0,0.5523 0.4477,1 1,1 v -1 z" />
   <path
      id="menuitem-normal-bottomright"
      style="opacity:0.4;fill:#89b4fa;fill-rule:evenodd;paint-order:normal;fill-opacity:1"
-     d="m 191.5,353.5 v 2 c 1.1046,0 2,-0.8954 2,-2 z" />
+     d="m 191.5,353.5 v 1 c 0.5523,0 1,-0.4477 1,-1 z" />
   <g
      style="fill-rule:evenodd;stroke-width:2.23607"
      transform="matrix(0.2,0,0,1,13.45,-559.4478)"
